@@ -25,7 +25,6 @@ Ambika Joshi is Head of Developer Relations at [[Gooey.AI]] (Dara.network Inc), 
 - Recently delivered a four-session AI workshop for the **UW International Public Health Leadership Program (IPPHL)** via Gooey.AI; producing associated feedback forms and materials
 - Actively judging a **code-switching ASR competition** evaluating submissions in African languages
 - Working on **certification/badging infrastructure** for a curriculum project, with LinkedIn shareability as a key requirement
-- Requested a **Vedic horoscope analysis** with forward-looking relationship and life guidance through mid-2027 — *logged as a factual record of the request only; no horoscope/astrological content has been generated as part of this wiki (see AGENTS.md, "Sensitive/out-of-scope content")*
 
 ## Recent history (per latest source)
 
@@ -78,4 +77,3 @@ Ambika Joshi is Head of Developer Relations at [[Gooey.AI]] (Dara.network Inc), 
 - Outcomes of Mozilla Festival / Stimuleringsfonds / OSV Fellowship applications — Not found in sources
 - Outcome/results of UW IPPHL workshop and ASR judging — Not found in sources (in progress as of last update)
 - Nature of relationship to the child mentioned in Netherlands life context (e.g. parent) — Not found in sources (implied but not stated)
-- Vedic horoscope request — logged only; no content generated. If the user wants this handled elsewhere (not as wiki fact), needs explicit instruction outside wiki scope.
