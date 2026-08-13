@@ -11,12 +11,12 @@ Ambika Joshi is Head of Developer Relations at [Gooey.AI](gooey-ai.md) (Dara.net
 - **Also:** Independent consultant on agentic AI systems
 - **Co-founder:** [Ajaibghar Cultural Services](ajaibghar-cultural-services.md), a creative technology studio
 
-## Personal context
+## Practice themes
 - Tech artist / creative technologist working under the name **Computational Mama**
 - Thematic focus: code as care, motherhood/AI intersections, non-Western feminist datasets
 - **Fellowships held:** Godrej Design, Pro Helvetia Research, Processing Foundation, BeFantastic
 - **Work shown at:** Bangalore International Center, India Art Fair, Vorspiel/transmediale & CTM
-- **Reading habits:** Comics, graphic novels, feminist design books; borrows from OBA Oosterdok (Amsterdam public library)
+- **Reading habits:** Comics, graphic novels, feminist design books
 - **Current reads:** *Designing Motherhood*, *Love and Rockets*, *The Daniel Clowes Reader*, *Hicksville*, *Feeding Ghosts* (Tessa Hulls)
 
 ## Top of mind (as of latest source)
@@ -33,7 +33,7 @@ Ambika Joshi is Head of Developer Relations at [Gooey.AI](gooey-ai.md) (Dara.net
 - Explored partnership angles with FOSS United and IndiaFOSS
 - Built and refined technical documentation for the Broadcast API
 - Managed inbound leads; created Asana tasks across engineering and DevRel workstreams
-- Attended the **RealML 2026 Workshop** in Johannesburg (June 1–5), after navigating a visa process with ALT Advisory Africa; explored Johannesburg art/museum venues around the trip
+- Attended the **RealML 2026 Workshop** in Johannesburg (June 1–5); explored Johannesburg art/museum venues around the trip
 - Evaluated Gooey.AI's company trajectory and her own ESOP position as part of financial planning (**details of the ESOP terms: Not found in sources**)
 
 ### Computational Mama / research work
@@ -42,14 +42,6 @@ Ambika Joshi is Head of Developer Relations at [Gooey.AI](gooey-ai.md) (Dara.net
 - Researched the broader solar-powered web infrastructure landscape
 - Submitted or considered applications for: Mozilla Festival, Stimuleringsfonds Digital Culture grants, OSV Fellowship (**outcomes: Not found in sources**)
 - Drafted availability emails for September 2026 solar/Computational Mama project work
-
-### Life in the Netherlands
-- Navigated Dutch tax assessments (Zvw bijdrage as a ZZP-er)
-- Researched NRI banking (NRO/NRE account conversion)
-- Explored Dutch naturalization requirements
-- Researched artist housing (atelierwoning listings in Amsterdam)
-- Planned a family trip to Milan (April 24–30, via Nightjet train)
-- Researched local schools, dance classes, summer art camps, and activities for a child in the Zaandam/Amsterdam Noord area (**relationship to child: Not found in sources — not explicitly stated**)
 
 ## Earlier context (prior to "recent months")
 - Built a multi-chatbot RAG hub: Afiya, SEAMore, Open Up Assistant
@@ -67,11 +59,10 @@ Ambika Joshi is Head of Developer Relations at [Gooey.AI](gooey-ai.md) (Dara.net
 - [DPGA Nomination (Gooey.AI)](../concepts/dpga-nomination.md)
 
 ## Sources
-- `raw_sources/ambika-joshi-bio-context-2026.md` — full bio/context dump, self-reported
+- `raw_sources/ambika-joshi-bio-context-2026.md` — full bio/context dump, self-reported (note: raw source retains original unredacted text per the immutable-original-materials policy; redactions here apply only to this curated page)
 
 ## Open questions
 - Exact date this context was authored — Needs verification
 - ESOP terms/size at Gooey.AI — Not found in sources
 - Outcomes of Mozilla Festival / Stimuleringsfonds / OSV Fellowship applications — Not found in sources
 - Outcome/results of UW IPPHL workshop and ASR judging — Not found in sources (in progress as of last update)
-- Nature of relationship to the child mentioned in Netherlands life context (e.g. parent) — Not found in sources (implied but not stated)
