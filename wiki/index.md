@@ -21,4 +21,4 @@
 - What RealML is (event type/organizer/series) and its relationship to other entities in this wiki — Not found in sources.
 
 ## Notes
-- A Vedic horoscope request was logged as a factual record of the request only — no horoscope content was generated (per AGENTS.md scope rules).
+- 
