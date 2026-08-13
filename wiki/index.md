@@ -17,6 +17,5 @@
 
 ## Open questions across the wiki
 - Exact date the Ambika Joshi bio/context source was authored — needs verification.
-- Ambika's ESOP position details — Not found in sources.
 - Full scope/outcomes of UW IPPHL workshop & ASR judging — Not found in sources (in progress).
 - What RealML is (event type/organizer/series), date, location, and its relationship to other entities in this wiki — Not found in sources; written notes pending from contributor.
