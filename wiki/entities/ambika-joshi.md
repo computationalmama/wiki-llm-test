@@ -3,15 +3,13 @@
 **Also known as:** Computational Mama
 
 ## Summary
-Ambika Joshi is Head of Developer Relations at [[Gooey.AI]] (Dara.network Inc), an open-source AI orchestration platform focused on the impact sector. She also works independently as a consultant on agentic AI systems, co-founded [[Ajaibghar Cultural Services]], and maintains an active creative/artistic practice under the name **Computational Mama** (see [[Computational Mama Practice]]). She is based in Zaandam, Netherlands, and works as a ZZP (self-employed freelancer).
+Ambika Joshi is Head of Developer Relations at [Gooey.AI](gooey-ai.md) (Dara.network Inc), an open-source AI orchestration platform focused on the impact sector. She also works independently as a consultant on agentic AI systems, co-founded [Ajaibghar Cultural Services](ajaibghar-cultural-services.md), and maintains an active creative/artistic practice under the name **Computational Mama** (see [Computational Mama Practice](../concepts/computational-mama-practice.md)).
 
 ## Work context
-- **Role:** Head of Developer Relations, [[Gooey.AI]] (Dara.network Inc)
+- **Role:** Head of Developer Relations, [Gooey.AI](gooey-ai.md) (Dara.network Inc)
 - **Company focus:** Open-source AI orchestration platform, impact sector
 - **Also:** Independent consultant on agentic AI systems
-- **Co-founder:** [[Ajaibghar Cultural Services]], a creative technology studio
-- **Location:** Zaandam, Netherlands
-- **Employment status:** ZZP (Dutch self-employed freelancer / zelfstandige zonder personeel)
+- **Co-founder:** [Ajaibghar Cultural Services](ajaibghar-cultural-services.md), a creative technology studio
 
 ## Personal context
 - Tech artist / creative technologist working under the name **Computational Mama**
@@ -31,7 +29,7 @@ Ambika Joshi is Head of Developer Relations at [[Gooey.AI]] (Dara.network Inc), 
 ### Gooey.AI / DevRel work
 - Produced monthly changelog blog posts (Jan–May 2026)
 - Drafted a feature roundup post covering new LLM/speech/video integrations
-- Worked on the [[DPGA Nomination (Gooey.AI)]] with associated documentation (Code of Conduct, Do No Harm statement)
+- Worked on the [DPGA Nomination (Gooey.AI)](../concepts/dpga-nomination.md) with associated documentation (Code of Conduct, Do No Harm statement)
 - Explored partnership angles with FOSS United and IndiaFOSS
 - Built and refined technical documentation for the Broadcast API
 - Managed inbound leads; created Asana tasks across engineering and DevRel workstreams
@@ -39,7 +37,7 @@ Ambika Joshi is Head of Developer Relations at [[Gooey.AI]] (Dara.network Inc), 
 - Evaluated Gooey.AI's company trajectory and her own ESOP position as part of financial planning (**details of the ESOP terms: Not found in sources**)
 
 ### Computational Mama / research work
-- Published an update on [[Sun Shines Bright / SolarPi Project]] (solar-powered portable AI interface on PiSugar + Raspberry Pi)
+- Published an update on [Sun Shines Bright / SolarPi Project](../concepts/sun-shines-bright-solarpi.md) (solar-powered portable AI interface on PiSugar + Raspberry Pi)
 - Worked on solarpi hardware: INA219 power monitoring, PiSugar 3 Plus troubleshooting, Whisplay HAT button integration
 - Researched the broader solar-powered web infrastructure landscape
 - Submitted or considered applications for: Mozilla Festival, Stimuleringsfonds Digital Culture grants, OSV Fellowship (**outcomes: Not found in sources**)
@@ -62,11 +60,11 @@ Ambika Joshi is Head of Developer Relations at [[Gooey.AI]] (Dara.network Inc), 
 - Explored: Claude Code + Telegram integration, ReAct-style agent loops, a Raspberry Pi RAG pipeline using Qdrant and Ollama
 
 ## Related
-- [[Gooey.AI]]
-- [[Ajaibghar Cultural Services]]
-- [[Computational Mama Practice]]
-- [[Sun Shines Bright / SolarPi Project]]
-- [[DPGA Nomination (Gooey.AI)]]
+- [Gooey.AI](gooey-ai.md)
+- [Ajaibghar Cultural Services](ajaibghar-cultural-services.md)
+- [Computational Mama Practice](../concepts/computational-mama-practice.md)
+- [Sun Shines Bright / SolarPi Project](../concepts/sun-shines-bright-solarpi.md)
+- [DPGA Nomination (Gooey.AI)](../concepts/dpga-nomination.md)
 
 ## Sources
 - `raw_sources/ambika-joshi-bio-context-2026.md` — full bio/context dump, self-reported

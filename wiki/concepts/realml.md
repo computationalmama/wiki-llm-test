@@ -6,7 +6,7 @@ RealML is an event the wiki maintainer attended. Four images have been logged so
 ## Key facts
 - 4 images logged (see Sources) depicting: dried plant fragments arranged on a tarp; a chalk-drawn "Avenue/HOMES" diagram on a concrete pillar in a market setting; a museum installation of wooden antelope sculptures and a hunting-scene mural; an outdoor brick corridor with a suspended metal sculptural installation.
 - No people identified by name in the images.
-- Relationship to [[Ambika Joshi]], [[Gooey.AI]], [[Ajaibghar Cultural Services]]: **Needs verification** — not yet confirmed.
+- Relationship to [Ambika Joshi](../entities/ambika-joshi.md), [Gooey.AI](../entities/gooey-ai.md), [Ajaibghar Cultural Services](../entities/ajaibghar-cultural-services.md): **Needs verification** — not yet confirmed.
 
 ## Timeline
 - Date of event: Unknown — pending notes.

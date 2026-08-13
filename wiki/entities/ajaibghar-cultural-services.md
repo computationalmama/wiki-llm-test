@@ -1,7 +1,7 @@
 # Ajaibghar Cultural Services
 
 ## Summary
-Ajaibghar Cultural Services is a creative technology studio co-founded by [[Ambika Joshi]].
+Ajaibghar Cultural Services is a creative technology studio co-founded by [Ambika Joshi](ambika-joshi.md).
 
 ## Details
 - **Type:** Creative technology studio
@@ -9,7 +9,7 @@ Ajaibghar Cultural Services is a creative technology studio co-founded by [[Ambi
 - **Activities, projects, founding date, focus areas:** Not found in sources — only the existence and Ambika's co-founder role are stated in the current source.
 
 ## Related
-- [[Ambika Joshi]]
+- [Ambika Joshi](ambika-joshi.md)
 
 ## Sources
 - `raw_sources/ambika-joshi-bio-context-2026.md`

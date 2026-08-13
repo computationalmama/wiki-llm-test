@@ -1,7 +1,7 @@
 # Sun Shines Bright / SolarPi Project
 
 ## Summary
-A solar-powered portable AI interface project by [[Ambika Joshi]] (under the [[Computational Mama Practice]]), built on PiSugar + Raspberry Pi hardware.
+A solar-powered portable AI interface project by [Ambika Joshi](../entities/ambika-joshi.md) (under the [Computational Mama Practice](computational-mama-practice.md)), built on PiSugar + Raspberry Pi hardware.
 
 ## Key facts
 - **Core concept:** Solar-powered portable AI interface
@@ -19,8 +19,8 @@ A solar-powered portable AI interface project by [[Ambika Joshi]] (under the [[C
 - Not found in sources for project start date; most recent activity described as "recent months" relative to the source's authoring date (date itself Needs verification).
 
 ## Related
-- [[Ambika Joshi]]
-- [[Computational Mama Practice]]
+- [Ambika Joshi](../entities/ambika-joshi.md)
+- [Computational Mama Practice](computational-mama-practice.md)
 
 ## Sources
 - `raw_sources/ambika-joshi-bio-context-2026.md`

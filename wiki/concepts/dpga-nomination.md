@@ -1,7 +1,7 @@
 # DPGA Nomination (Gooey.AI)
 
 ## Summary
-Work led by [[Ambika Joshi]] to nominate [[Gooey.AI]] to the Digital Public Goods Alliance (DPGA), including required documentation.
+Work led by [Ambika Joshi](../entities/ambika-joshi.md) to nominate [Gooey.AI](../entities/gooey-ai.md) to the Digital Public Goods Alliance (DPGA), including required documentation.
 
 ## Key facts
 - **Target:** Digital Public Goods Alliance (DPGA) recognition/nomination for Gooey.AI
@@ -15,8 +15,8 @@ Work led by [[Ambika Joshi]] to nominate [[Gooey.AI]] to the Digital Public Good
 - Described as part of "recent months" of Gooey.AI work (exact dates Not found in sources)
 
 ## Related
-- [[Gooey.AI]]
-- [[Ambika Joshi]]
+- [Gooey.AI](../entities/gooey-ai.md)
+- [Ambika Joshi](../entities/ambika-joshi.md)
 
 ## Sources
 - `raw_sources/ambika-joshi-bio-context-2026.md`
